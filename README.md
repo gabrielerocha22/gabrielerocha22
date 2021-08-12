@@ -1,5 +1,7 @@
 👋 Oi! 
 
+- Atualmente aprendendo Angular
+
 <div> 
   
    <a href = "https://github.com/gabrielerocha22/">
