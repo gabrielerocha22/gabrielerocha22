@@ -1,6 +1,3 @@
-👋 Oi! 
-
-- Atualmente aprendendo Angular
 
 <div> 
   
