@@ -13,7 +13,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="Java" height="30" width="40" src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_1024px_default.png">
+  <img align="center" alt="Java" height="30" width="40" src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_logo_vertical_rgb_1280px_default.png">
   
   
  
